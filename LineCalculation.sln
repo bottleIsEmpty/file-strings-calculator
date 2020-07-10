@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineCalculation", "LineCalculation\LineCalculation.csproj", "{9D9995CA-90B8-4802-9264-63752D437A1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineCalculationTests", "LineCalculationTests\LineCalculationTests.csproj", "{F802D570-9D67-448F-94D4-DB699AD502A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D9995CA-90B8-4802-9264-63752D437A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9995CA-90B8-4802-9264-63752D437A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9995CA-90B8-4802-9264-63752D437A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9995CA-90B8-4802-9264-63752D437A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F802D570-9D67-448F-94D4-DB699AD502A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F802D570-9D67-448F-94D4-DB699AD502A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F802D570-9D67-448F-94D4-DB699AD502A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F802D570-9D67-448F-94D4-DB699AD502A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

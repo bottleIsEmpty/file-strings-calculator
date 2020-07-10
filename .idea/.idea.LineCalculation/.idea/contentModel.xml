@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alexandr\.nuget\packages\microsoft.net.test.sdk\16.4.0\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\Alexandr\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\Alexandr\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\Alexandr\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.api.dll" t="Include" />
+    <e p="C:\Users\Alexandr\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.dll" t="Include" />
+    <e p="C:\Users\Alexandr\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\Alexandr\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="C:\Users\Alexandr\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Alexandr\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Alexandr\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alexandr\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_LineCalculation.200904435.00" t="ExcludeRecursive" />
+    <e p="H:\Code\ProektChelika\LineCalculation" t="IncludeFlat">
+      <e p="LineCalculation" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Core" t="Include">
+          <e p="LanguageSpecifications" t="Include">
+            <e p="CLikeLanguageSpecification.cs" t="Include" />
+            <e p="ILanguageSpecification.cs" t="Include" />
+            <e p="LanguageSpecificationFactory.cs" t="Include" />
+            <e p="PythonLanguageSpecification.cs" t="Include" />
+          </e>
+          <e p="LineCalculator.cs" t="Include" />
+          <e p="Models" t="Include">
+            <e p="CalculationResult.cs" t="Include" />
+            <e p="CodeStringType.cs" t="Include" />
+          </e>
+        </e>
+        <e p="LineCalculation.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LineCalculation.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="LineCalculation.sln" t="IncludeFlat" />
+      <e p="LineCalculationTests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LineCalculationTests.csproj" t="IncludeRecursive" />
+        <e p="LineCalculatorTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LineCalculationTests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TestFiles" t="Include">
+          <e p="JavaScript.js" t="Include" />
+          <e p="Python.py" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
